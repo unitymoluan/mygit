@@ -1,6 +1,0 @@
-aaaaaaaa
-vvvvvvvv
-git
-linux
-python
-app
